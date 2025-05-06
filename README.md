@@ -1,4 +1,4 @@
-# Student Achievement Management System
+# Student Academic Performance Management System
 
 This project is a full-stack web application for managing student achievements, courses, and grades. It consists of a Vue.js frontend and a Spring Boot backend.
 
