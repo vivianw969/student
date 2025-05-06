@@ -1,0 +1,18 @@
+2025-05-06 14:44:13 - Starting SpringbootApplication using Java 23.0.2 on Vivians-MacBook-Pro with PID 76185 (/Users/Vivian/Documents/脚手架/student/springboot/target/classes started by Vivian in /Users/Vivian/Documents/脚手架/student/springboot)
+2025-05-06 14:44:13 - No active profile set, falling back to default profiles: default
+2025-05-06 14:44:14 - Tomcat initialized with port(s): 9090 (http)
+2025-05-06 14:44:14 - Initializing ProtocolHandler ["http-nio-9090"]
+2025-05-06 14:44:14 - Starting service [Tomcat]
+2025-05-06 14:44:14 - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2025-05-06 14:44:14 - Initializing Spring embedded WebApplicationContext
+2025-05-06 14:44:14 - Root WebApplicationContext: initialization completed in 497 ms
+2025-05-06 14:44:14 - Starting ProtocolHandler ["http-nio-9090"]
+2025-05-06 14:44:14 - Tomcat started on port(s): 9090 (http) with context path ''
+2025-05-06 14:44:14 - Started SpringbootApplication in 1.005 seconds (JVM running for 1.199)
+2025-05-06 14:46:03 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 14:46:03 - Initializing Servlet 'dispatcherServlet'
+2025-05-06 14:46:03 - Completed initialization in 2 ms
+2025-05-06 14:46:03 - HikariPool-1 - Starting...
+2025-05-06 14:46:04 - HikariPool-1 - Start completed.
+2025-05-06 14:46:47 - HikariPool-1 - Shutdown initiated...
+2025-05-06 14:46:47 - HikariPool-1 - Shutdown completed.

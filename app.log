@@ -1,0 +1,62 @@
+2024-07-08 11:34:58 - Starting SpringbootApplication using Java 18.0.1.1 on Vivians-MacBook-Pro-2.local with PID 82629 (/Users/Vivian/Documents/脚手架/student/springboot/target/classes started by Vivian in /Users/Vivian/Documents/脚手架/student)
+2024-07-08 11:34:58 - No active profile set, falling back to default profiles: default
+2024-07-08 11:34:59 - Tomcat initialized with port(s): 9090 (http)
+2024-07-08 11:34:59 - Initializing ProtocolHandler ["http-nio-9090"]
+2024-07-08 11:34:59 - Starting service [Tomcat]
+2024-07-08 11:34:59 - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2024-07-08 11:34:59 - Initializing Spring embedded WebApplicationContext
+2024-07-08 11:34:59 - Root WebApplicationContext: initialization completed in 1149 ms
+2024-07-08 11:35:00 - Starting ProtocolHandler ["http-nio-9090"]
+2024-07-08 11:35:00 - Tomcat started on port(s): 9090 (http) with context path ''
+2024-07-08 11:35:00 - Started SpringbootApplication in 2.429 seconds (JVM running for 3.316)
+2024-07-08 11:35:56 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-08 11:35:56 - Initializing Servlet 'dispatcherServlet'
+2024-07-08 11:35:56 - Completed initialization in 3 ms
+2024-07-08 11:35:56 - HikariPool-1 - Starting...
+2024-07-08 11:35:56 - HikariPool-1 - Start completed.
+2024-07-08 12:27:39 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58s901ms).
+2024-07-08 12:43:22 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m42s470ms).
+2024-07-08 13:01:48 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m25s938ms).
+2024-07-08 13:11:55 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m7s684ms).
+2024-07-08 13:51:54 - HikariPool-1 - Shutdown initiated...
+2024-07-08 13:51:54 - HikariPool-1 - Shutdown completed.
+2024-07-08 13:52:26 - Starting SpringbootApplication using Java 18.0.1.1 on Vivians-MacBook-Pro-2.local with PID 83822 (/Users/Vivian/Documents/脚手架/student/springboot/target/classes started by Vivian in /Users/Vivian/Documents/脚手架/student)
+2024-07-08 13:52:26 - No active profile set, falling back to default profiles: default
+2024-07-08 13:52:27 - Tomcat initialized with port(s): 9090 (http)
+2024-07-08 13:52:27 - Initializing ProtocolHandler ["http-nio-9090"]
+2024-07-08 13:52:27 - Starting service [Tomcat]
+2024-07-08 13:52:27 - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2024-07-08 13:52:27 - Initializing Spring embedded WebApplicationContext
+2024-07-08 13:52:27 - Root WebApplicationContext: initialization completed in 1247 ms
+2024-07-08 13:52:28 - Starting ProtocolHandler ["http-nio-9090"]
+2024-07-08 13:52:28 - Tomcat started on port(s): 9090 (http) with context path ''
+2024-07-08 13:52:28 - Started SpringbootApplication in 2.667 seconds (JVM running for 3.457)
+2024-07-08 13:53:28 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-08 13:53:28 - Initializing Servlet 'dispatcherServlet'
+2024-07-08 13:53:28 - Completed initialization in 2 ms
+2024-07-08 13:55:29 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2024-07-08 13:58:31 - HikariPool-1 - Starting...
+2024-07-08 13:58:31 - HikariPool-1 - Start completed.
+2024-07-08 13:59:37 - {"result":"{\"code\":\"200\",\"msg\":\"请求成功\"}","basePath":"http://localhost:9090","method":"DELETE","ip":"0:0:0:0:0:0:0:1","parameter":"[4]","description":"","startTime":1720418377527,"uri":"/grade/delete/4","url":"http://localhost:9090/grade/delete/4","username":"","spendTime":11}
+2024-07-08 13:59:52 - HikariPool-1 - Shutdown initiated...
+2024-07-08 13:59:52 - HikariPool-1 - Shutdown completed.
+2024-07-25 15:00:15 - Starting SpringbootApplication using Java 18.0.1.1 on Vivians-MacBook-Pro-2.local with PID 80758 (/Users/Vivian/Documents/脚手架/student/springboot/target/classes started by Vivian in /Users/Vivian/Documents/脚手架/student)
+2024-07-25 15:00:15 - No active profile set, falling back to default profiles: default
+2024-07-25 15:00:17 - Tomcat initialized with port(s): 9090 (http)
+2024-07-25 15:00:17 - Initializing ProtocolHandler ["http-nio-9090"]
+2024-07-25 15:00:17 - Starting service [Tomcat]
+2024-07-25 15:00:17 - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2024-07-25 15:00:18 - Initializing Spring embedded WebApplicationContext
+2024-07-25 15:00:18 - Root WebApplicationContext: initialization completed in 2561 ms
+2024-07-25 15:00:19 - Starting ProtocolHandler ["http-nio-9090"]
+2024-07-25 15:00:19 - Tomcat started on port(s): 9090 (http) with context path ''
+2024-07-25 15:00:19 - Started SpringbootApplication in 5.549 seconds (JVM running for 8.162)
+2024-07-25 15:00:53 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 15:00:53 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 15:00:53 - Completed initialization in 9 ms
+2024-07-25 15:03:37 - HikariPool-1 - Starting...
+2024-07-25 15:03:37 - HikariPool-1 - Start completed.
+2024-07-25 15:07:04 - {"result":"{\"code\":\"200\",\"msg\":\"请求成功\"}","basePath":"http://localhost:9090","method":"DELETE","ip":"0:0:0:0:0:0:0:1","parameter":"[3]","description":"","startTime":1721891224674,"uri":"/course/delete/3","url":"http://localhost:9090/course/delete/3","username":"","spendTime":29}
+2024-07-25 15:10:30 - {"result":"{\"code\":\"200\",\"msg\":\"请求成功\"}","basePath":"http://localhost:9090","method":"DELETE","ip":"0:0:0:0:0:0:0:1","parameter":"[3]","description":"","startTime":1721891430882,"uri":"/course/delete/3","url":"http://localhost:9090/course/delete/3","username":"","spendTime":21}
+2024-07-25 15:17:31 - HikariPool-1 - Shutdown initiated...
+2024-07-25 15:17:31 - HikariPool-1 - Shutdown completed.
